@@ -1,0 +1,16 @@
+C:\Users\22799\source\repos\C#Lesson\12.方法的抽取\bin\Debug\12.方法的抽取.exe.config
+C:\Users\22799\source\repos\C#Lesson\12.方法的抽取\bin\Debug\12.方法的抽取.exe
+C:\Users\22799\source\repos\C#Lesson\12.方法的抽取\bin\Debug\12.方法的抽取.pdb
+C:\Users\22799\source\repos\C#Lesson\12.方法的抽取\obj\Debug\12.方法的抽取.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\C#Lesson\12.方法的抽取\obj\Debug\12.方法的抽取.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\C#Lesson\12.方法的抽取\obj\Debug\12.方法的抽取.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\C#Lesson\12.方法的抽取\obj\Debug\12.方法的抽取.exe
+C:\Users\22799\source\repos\C#Lesson\12.方法的抽取\obj\Debug\12.方法的抽取.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\12.方法的抽取\bin\Debug\12.方法的抽取.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\12.方法的抽取\bin\Debug\12.方法的抽取.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\12.方法的抽取\bin\Debug\12.方法的抽取.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\12.方法的抽取\obj\Debug\12.方法的抽取.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\12.方法的抽取\obj\Debug\12.方法的抽取.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\12.方法的抽取\obj\Debug\12.方法的抽取.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\12.方法的抽取\obj\Debug\12.方法的抽取.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\12.方法的抽取\obj\Debug\12.方法的抽取.pdb

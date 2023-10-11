@@ -1,0 +1,8 @@
+C:\Users\22799\source\repos\github\CSharp-_Lesson\11.方法的编写与使用\bin\Debug\11.方法的编写与使用.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\11.方法的编写与使用\bin\Debug\11.方法的编写与使用.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\11.方法的编写与使用\bin\Debug\11.方法的编写与使用.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\11.方法的编写与使用\obj\Debug\11.方法的编写与使用.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\11.方法的编写与使用\obj\Debug\11.方法的编写与使用.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\11.方法的编写与使用\obj\Debug\11.方法的编写与使用.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\11.方法的编写与使用\obj\Debug\11.方法的编写与使用.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\11.方法的编写与使用\obj\Debug\11.方法的编写与使用.pdb

@@ -1,0 +1,16 @@
+C:\Users\22799\source\repos\C#Lesson\15.对象的练习\bin\Debug\15.对象的练习.exe.config
+C:\Users\22799\source\repos\C#Lesson\15.对象的练习\bin\Debug\15.对象的练习.exe
+C:\Users\22799\source\repos\C#Lesson\15.对象的练习\bin\Debug\15.对象的练习.pdb
+C:\Users\22799\source\repos\C#Lesson\15.对象的练习\obj\Debug\15.对象的练习.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\C#Lesson\15.对象的练习\obj\Debug\15.对象的练习.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\C#Lesson\15.对象的练习\obj\Debug\15.对象的练习.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\C#Lesson\15.对象的练习\obj\Debug\15.对象的练习.exe
+C:\Users\22799\source\repos\C#Lesson\15.对象的练习\obj\Debug\15.对象的练习.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\15.对象的练习\bin\Debug\15.对象的练习.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\15.对象的练习\bin\Debug\15.对象的练习.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\15.对象的练习\bin\Debug\15.对象的练习.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\15.对象的练习\obj\Debug\15.对象的练习.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\15.对象的练习\obj\Debug\15.对象的练习.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\15.对象的练习\obj\Debug\15.对象的练习.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\15.对象的练习\obj\Debug\15.对象的练习.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\15.对象的练习\obj\Debug\15.对象的练习.pdb

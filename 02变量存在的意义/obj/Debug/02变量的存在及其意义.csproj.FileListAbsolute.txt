@@ -1,0 +1,8 @@
+C:\Users\22799\source\repos\github\CSharp-_Lesson\02变量存在的意义\bin\Debug\02变量存在的意义.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\02变量存在的意义\bin\Debug\02变量存在的意义.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\02变量存在的意义\bin\Debug\02变量存在的意义.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\02变量存在的意义\obj\Debug\02变量的存在及其意义.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\02变量存在的意义\obj\Debug\02变量的存在及其意义.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\02变量存在的意义\obj\Debug\02变量的存在及其意义.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\02变量存在的意义\obj\Debug\02变量存在的意义.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\02变量存在的意义\obj\Debug\02变量存在的意义.pdb

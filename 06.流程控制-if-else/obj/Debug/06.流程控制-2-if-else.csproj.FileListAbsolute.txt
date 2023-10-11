@@ -1,0 +1,8 @@
+C:\Users\22799\source\repos\github\CSharp-_Lesson\06.流程控制-if-else\bin\Debug\06.流程控制-if-else.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\06.流程控制-if-else\bin\Debug\06.流程控制-if-else.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\06.流程控制-if-else\bin\Debug\06.流程控制-if-else.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\06.流程控制-if-else\obj\Debug\06.流程控制-2-if-else.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\06.流程控制-if-else\obj\Debug\06.流程控制-2-if-else.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\06.流程控制-if-else\obj\Debug\06.流程控制-2-if-else.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\06.流程控制-if-else\obj\Debug\06.流程控制-if-else.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\06.流程控制-if-else\obj\Debug\06.流程控制-if-else.pdb

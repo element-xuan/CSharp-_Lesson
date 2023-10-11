@@ -1,0 +1,16 @@
+C:\Users\22799\source\repos\C#Lesson\13.变量和方法在内存是如何操作的\bin\Debug\13.变量和方法在内存是如何操作的.exe.config
+C:\Users\22799\source\repos\C#Lesson\13.变量和方法在内存是如何操作的\bin\Debug\13.变量和方法在内存是如何操作的.exe
+C:\Users\22799\source\repos\C#Lesson\13.变量和方法在内存是如何操作的\bin\Debug\13.变量和方法在内存是如何操作的.pdb
+C:\Users\22799\source\repos\C#Lesson\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\C#Lesson\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\C#Lesson\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\C#Lesson\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.exe
+C:\Users\22799\source\repos\C#Lesson\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\13.变量和方法在内存是如何操作的\bin\Debug\13.变量和方法在内存是如何操作的.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\13.变量和方法在内存是如何操作的\bin\Debug\13.变量和方法在内存是如何操作的.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\13.变量和方法在内存是如何操作的\bin\Debug\13.变量和方法在内存是如何操作的.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.pdb

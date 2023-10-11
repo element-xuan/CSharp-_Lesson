@@ -1,0 +1,8 @@
+C:\Users\22799\source\repos\github\CSharp-_Lesson\01HolloWorld\bin\Debug\01HolloWorld.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\01HolloWorld\bin\Debug\01HolloWorld.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\01HolloWorld\bin\Debug\01HolloWorld.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\01HolloWorld\obj\Debug\01HolloWorld.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\01HolloWorld\obj\Debug\01HolloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\01HolloWorld\obj\Debug\01HolloWorld.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\01HolloWorld\obj\Debug\01HolloWorld.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\01HolloWorld\obj\Debug\01HolloWorld.pdb

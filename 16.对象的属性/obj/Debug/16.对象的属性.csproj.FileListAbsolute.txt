@@ -1,0 +1,16 @@
+C:\Users\22799\source\repos\C#Lesson\16.对象的属性\bin\Debug\16.对象的属性.exe.config
+C:\Users\22799\source\repos\C#Lesson\16.对象的属性\bin\Debug\16.对象的属性.exe
+C:\Users\22799\source\repos\C#Lesson\16.对象的属性\bin\Debug\16.对象的属性.pdb
+C:\Users\22799\source\repos\C#Lesson\16.对象的属性\obj\Debug\16.对象的属性.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\C#Lesson\16.对象的属性\obj\Debug\16.对象的属性.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\C#Lesson\16.对象的属性\obj\Debug\16.对象的属性.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\C#Lesson\16.对象的属性\obj\Debug\16.对象的属性.exe
+C:\Users\22799\source\repos\C#Lesson\16.对象的属性\obj\Debug\16.对象的属性.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\16.对象的属性\bin\Debug\16.对象的属性.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\16.对象的属性\bin\Debug\16.对象的属性.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\16.对象的属性\bin\Debug\16.对象的属性.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\16.对象的属性\obj\Debug\16.对象的属性.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\16.对象的属性\obj\Debug\16.对象的属性.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\16.对象的属性\obj\Debug\16.对象的属性.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\16.对象的属性\obj\Debug\16.对象的属性.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\16.对象的属性\obj\Debug\16.对象的属性.pdb

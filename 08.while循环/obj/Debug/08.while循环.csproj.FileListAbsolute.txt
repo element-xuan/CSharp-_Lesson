@@ -1,0 +1,8 @@
+C:\Users\22799\source\repos\github\CSharp-_Lesson\08.while循环\bin\Debug\08.while循环.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\08.while循环\bin\Debug\08.while循环.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\08.while循环\bin\Debug\08.while循环.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\08.while循环\obj\Debug\08.while循环.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\08.while循环\obj\Debug\08.while循环.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\08.while循环\obj\Debug\08.while循环.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\08.while循环\obj\Debug\08.while循环.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\08.while循环\obj\Debug\08.while循环.pdb
