@@ -1,0 +1,11 @@
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\bin\Debug\19.构造函数.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\bin\Debug\19.构造函数.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\bin\Debug\19.构造函数.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\obj\Debug\19.构造函数.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\obj\Debug\19.构造函数.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\obj\Debug\_19.构造函数.Form1.resources
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\obj\Debug\_19.构造函数.Properties.Resources.resources
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\obj\Debug\19.构造函数.csproj.GenerateResource.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\obj\Debug\19.构造函数.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\obj\Debug\19.构造函数.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\19.构造函数\obj\Debug\19.构造函数.pdb

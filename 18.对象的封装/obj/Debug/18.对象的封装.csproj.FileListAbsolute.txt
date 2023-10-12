@@ -1,0 +1,11 @@
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\obj\Debug\18.对象的封装.csproj.AssemblyReference.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\obj\Debug\18.对象的封装.csproj.SuggestedBindingRedirects.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\obj\Debug\_18.对象的封装.Form1.resources
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\obj\Debug\_18.对象的封装.Properties.Resources.resources
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\obj\Debug\18.对象的封装.csproj.GenerateResource.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\obj\Debug\18.对象的封装.csproj.CoreCompileInputs.cache
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\bin\Debug\18.对象的封装.exe.config
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\bin\Debug\18.对象的封装.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\bin\Debug\18.对象的封装.pdb
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\obj\Debug\18.对象的封装.exe
+C:\Users\22799\source\repos\github\CSharp-_Lesson\18.对象的封装\obj\Debug\18.对象的封装.pdb
