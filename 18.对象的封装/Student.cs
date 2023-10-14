@@ -26,7 +26,7 @@ namespace _18.对象的封装
         public string StudentGender { get; set; }
 
         /// <summary>
-        /// log
+        /// Print Log
         /// </summary>
         public void Intro()
         {
